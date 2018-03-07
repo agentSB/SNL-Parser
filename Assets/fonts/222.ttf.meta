@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b00128fee4ce5834e9dd6e5e1e5b8600
+timeCreated: 1494749805
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 332-CAI978
+  fontNames:
+  - 332-CAI978
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
